@@ -1,0 +1,23 @@
+[
+    {
+        "id_pelanggan": "P001",
+        "nama_pelanggan": "Wayan Balik",
+        "alamat_pelanggan": "Jalan Tukad Pakerisan 3",
+        "tlp_pelanggan": "08911111111",
+        "pekerjaan": "Kuli Bangunan"
+    },
+    {
+        "id_pelanggan": "P002",
+        "nama_pelanggan": "Made",
+        "alamat_pelanggan": "Jalan Tukad Pakerisan 2",
+        "tlp_pelanggan": "089222333444",
+        "pekerjaan": "Programmer"
+    },
+    {
+        "id_pelanggan": "P003",
+        "nama_pelanggan": "AL",
+        "alamat_pelanggan": "dimana saja yang penting senang",
+        "tlp_pelanggan": "0819999999",
+        "pekerjaan": "Pengangguran"
+    }
+]
